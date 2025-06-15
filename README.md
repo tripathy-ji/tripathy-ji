@@ -4,7 +4,8 @@
 🌱 Learning Python, Cyber Forensics, Digital Evidence, and Scientific Tools  
 🔬 Interested in using technology for solving crimes and building tools for forensic analysis  
 💡 Summer 2025 Goal: Build beginner-friendly forensic and science-related projects  
-📫 Contact: [Your Email] | [LinkedIn Profile] (optional)
+📫 Contact: ayushwastemail@gmail.com
+
 
 ---
 
